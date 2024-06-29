@@ -1,0 +1,13 @@
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/bin/Debug/net8.0/EcommerceCommon.deps.json
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/bin/Debug/net8.0/EcommerceCommon.dll
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/bin/Debug/net8.0/EcommerceCommon.pdb
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/Common.csproj.AssemblyReference.cache
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/Common.AssemblyInfo.cs
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/Common.csproj.CoreCompileInputs.cache
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/Common.sourcelink.json
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/EcommerceCommon.dll
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/refint/EcommerceCommon.dll
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/EcommerceCommon.pdb
+/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/Debug/net8.0/ref/EcommerceCommon.dll

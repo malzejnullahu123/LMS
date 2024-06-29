@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5aseY21zStj/GKBkZOQxsHMWmz/a8MAEVOA26ULzAoiavO2TiD4H9DgQhhz0JuX2Rlm1sFWdsf2mpUO2Ifl1EQ==",
+  "dgSpecHash": "ZqdjiwketmeJ4zsUV8rUXy39tc0lo7jc7cKloAAV3WT/xjZN2/+hHN4TdYkbUXLtsFvzF2i7W4+JJ9drXGQ7Xg==",
   "success": true,
-  "projectFilePath": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj",
+  "projectFilePath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/malzejnullahu/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/malzejnullahu/.nuget/packages/azure.identity/1.11.3/azure.identity.1.11.3.nupkg.sha512",

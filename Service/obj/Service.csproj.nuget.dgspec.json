@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/malzejnullahu/Downloads/LMS-master/Service/Service.csproj": {}
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Service/Service.csproj": {}
   },
   "projects": {
-    "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj": {
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj",
+        "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj",
         "projectName": "EcommerceApplication",
-        "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj",
+        "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj",
         "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-        "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Application/obj/",
+        "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -27,11 +27,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj"
               },
-              "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj": {
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj",
+        "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj",
         "projectName": "EcommerceCommon",
-        "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj",
+        "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj",
         "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-        "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Common/obj/",
+        "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -167,14 +167,14 @@
         }
       }
     },
-    "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj": {
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj",
         "projectName": "EcommerceDomain",
-        "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj",
+        "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj",
         "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-        "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/obj/",
+        "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -239,14 +239,14 @@
         }
       }
     },
-    "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj": {
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj",
         "projectName": "EcommerceInfrastructure",
-        "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-        "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/obj/",
+        "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -262,8 +262,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj"
               }
             }
           }
@@ -315,14 +315,14 @@
         }
       }
     },
-    "/Users/malzejnullahu/Downloads/LMS-master/Persistence/Persistence.csproj": {
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Persistence/Persistence.csproj",
         "projectName": "EcommercePersistence",
-        "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Persistence/Persistence.csproj",
+        "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Persistence/Persistence.csproj",
         "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-        "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Persistence/obj/",
+        "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -338,11 +338,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj"
               },
-              "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj"
               }
             }
           }
@@ -365,9 +365,19 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -390,14 +400,14 @@
         }
       }
     },
-    "/Users/malzejnullahu/Downloads/LMS-master/Service/Service.csproj": {
+    "/Users/malzejnullahu/Documents/GitHub/LMS/Service/Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Service/Service.csproj",
+        "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Service/Service.csproj",
         "projectName": "EcommerceService",
-        "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Service/Service.csproj",
+        "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Service/Service.csproj",
         "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-        "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Service/obj/",
+        "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -413,20 +423,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj"
               },
-              "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Common/Common.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Common/Common.csproj"
               },
-              "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj"
               },
-              "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj"
               },
-              "/Users/malzejnullahu/Downloads/LMS-master/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Persistence/Persistence.csproj"
+              "/Users/malzejnullahu/Documents/GitHub/LMS/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Persistence/Persistence.csproj"
               }
             }
           }
@@ -448,6 +458,12 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",

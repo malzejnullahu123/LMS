@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EcommercePersistence
-build_property.ProjectDir = /Users/malzejnullahu/Downloads/LMS-master/Persistence/
+build_property.ProjectDir = /Users/malzejnullahu/Documents/GitHub/LMS/Persistence/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

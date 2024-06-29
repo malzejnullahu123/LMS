@@ -54,7 +54,7 @@ class Program
             .AddClasses()
             .AsMatchingInterface());
 
-        builder.Services.AddDbContext<DatabaseService>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+        builder.Services.AddDbContext<DatabaseService>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
         builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 

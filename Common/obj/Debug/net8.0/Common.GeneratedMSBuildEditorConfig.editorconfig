@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EcommerceCommon
-build_property.ProjectDir = /Users/malzejnullahu/Downloads/LMS-master/Common/
+build_property.ProjectDir = /Users/malzejnullahu/Documents/GitHub/LMS/Common/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

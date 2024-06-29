@@ -3183,11 +3183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj",
       "projectName": "EcommerceInfrastructure",
-      "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-      "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Infrastructure/obj/",
+      "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
@@ -3203,8 +3203,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj": {
-              "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Application/Application.csproj"
+            "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj": {
+              "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Application/Application.csproj"
             }
           }
         }

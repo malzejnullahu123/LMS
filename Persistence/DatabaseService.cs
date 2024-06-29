@@ -11,9 +11,9 @@ namespace EcommercePersistence
     {
         private readonly IConfiguration _configuration;
 
-        public DatabaseService(IConfiguration configuration)
+        public DatabaseService()
         {
-            _configuration = configuration;
+            // _configuration = configuration;
 
             Database.EnsureCreated();
         }
@@ -28,8 +28,11 @@ namespace EcommercePersistence
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var connectionString = _configuration.GetConnectionString("DefaultConnection");
+            var connString =
+                "Host=localhost;Port=5432;Database=lifedet6;Username=postgres;Password=postgres;Include Error Detail=True;";
+            
 
-            optionsBuilder.UseSqlServer(connectionString);
+            optionsBuilder.UseNpgsql(connString);
         }
 
         protected override void OnModelCreating(ModelBuilder builder)

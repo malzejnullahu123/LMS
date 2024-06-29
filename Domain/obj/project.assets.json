@@ -2397,11 +2397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj",
       "projectName": "EcommerceDomain",
-      "projectPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/Domain.csproj",
+      "projectPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/Domain.csproj",
       "packagesPath": "/Users/malzejnullahu/.nuget/packages/",
-      "outputPath": "/Users/malzejnullahu/Downloads/LMS-master/Domain/obj/",
+      "outputPath": "/Users/malzejnullahu/Documents/GitHub/LMS/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malzejnullahu/.nuget/NuGet/NuGet.Config"
